@@ -1,0 +1,18 @@
+{
+  "files": {
+    "config.snapshot.yaml": "ef7ad69a5cdbe8a146a0cd99919c991ee800ee250a0cf75a8f4321a892cee01c",
+    "corpus/claims.json": "75d09722ff1cd8c91d2382eaf7583267749c935b1f76fd8dea5ba178b4d66a15",
+    "corpus/dropped.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "corpus/meta.json": "a424d5012ac8543869bd1d66e594fce82721aa156674084fbc8991d2ee46a87e",
+    "corpus/niche.yaml": "6aeed970f13c4222700b978c30c2918ad2c20360441000fba0e4166bc0367232",
+    "corpus/papers.json": "2695ae96b67654f9769d355e5a34d27734cc4643241ab40df8f526838468309c",
+    "corpus/query_plan.json": "6ea470387024b6b2f0d23f92c9b6c14c156508bbb93a9c28d5f1b95c21ccdd67",
+    "corpus/scout.json": "d44f7cf28c8a4f776a2d7d6a8cf4ead5d92b1d3277912d1351e8514021350ba3",
+    "env.json": "c6c1744a912495960c1dd55d08dc82b3527866ca3831aaa1d12030b4c98f9f10",
+    "inputs.json": "1bc352c84e568a74afba43899d2fb8102526f2e0f77297d8f1b32270d396e04e",
+    "notebook.sqlite": "ecce8a99407a12273425af26533c367f56039284bf9fa64d8b9a25d3d9fcb622",
+    "recordings/llm.jsonl": "5ed4cc41ab4b3e3f0d22ca37faa36ced432309a75c4f6b976e5b95095a8248d2",
+    "runs.jsonl": "7096271e6c4af3feaf5fda8497d46f114aba2f6dedc437afc8ed17447bf96906",
+    "state.json": "ddb59cfc6b549d12f9ca4c2b40b07e01cb9dfdfbc8928133a430ac415ab3d32d"
+  }
+}

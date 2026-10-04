@@ -1,0 +1,49 @@
+{
+  "mode": "curated_only",
+  "label": "curated snapshot only",
+  "search_date": "2026-10-03",
+  "queries": [],
+  "degraded": [],
+  "niche": {
+    "title": "Training efficiency of tiny character-level Transformers",
+    "description": "Which architecture and optimization choices change the validation loss of a very small character-level Transformer language model trained for a short, fixed number of steps? We care about normalization, activation functions, positional encoding, optimizers, learning-rate schedules and regularization, as reported for Transformer language models.\n",
+    "include_terms": [
+      "layer normalization",
+      "activation functions",
+      "positional encoding",
+      "optimizer",
+      "learning-rate schedule",
+      "dropout",
+      "Transformer language model"
+    ],
+    "exclude_terms": [
+      "vision transformer",
+      "speech",
+      "reinforcement learning"
+    ],
+    "arxiv_categories": [
+      "cs.LG",
+      "cs.CL",
+      "cs.NE"
+    ],
+    "date_from": "2017-01-01",
+    "date_to": "",
+    "seed_papers": [
+      "2002.04745",
+      "1910.07467"
+    ],
+    "max_papers": 80,
+    "testbed": "tiny_char_lm",
+    "pi_overrides": [],
+    "pi_dismissed_holds": []
+  },
+  "papers": 10,
+  "claims": 13,
+  "tiers": {
+    "T1": 13,
+    "T2": 0,
+    "T3": 0,
+    "T4": 0
+  },
+  "coverage_rule": "Our setting: transformer, char_language_modeling, tiny, step-budgeted training.\ncovers: model_family ∈ {transformer, general} AND task ∈ {char_language_modeling, language_modeling, general} AND scale ∈ {tiny, small}.\npartially covers: same model_family and task condition AND scale ∈ {medium, large, unspecified}.\ndoes not cover: anything else.\nFor overlap / prior art, covers OR partially covers counts as covered (we avoid rediscovery). For evidence relations (agrees / contradicts), only covers counts.\nCurated (T1) claims carry a human covers / does-not-cover flag instead of extracted fields."
+}

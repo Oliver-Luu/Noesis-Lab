@@ -1,0 +1,17 @@
+{
+  "files": {
+    "config.snapshot.yaml": "ad11ed18035fcc1973be846117d14f7adea29620e0cd365175ffc86b28caf1ea",
+    "corpus/claims.json": "75d09722ff1cd8c91d2382eaf7583267749c935b1f76fd8dea5ba178b4d66a15",
+    "corpus/dropped.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "corpus/meta.json": "a424d5012ac8543869bd1d66e594fce82721aa156674084fbc8991d2ee46a87e",
+    "corpus/niche.yaml": "6aeed970f13c4222700b978c30c2918ad2c20360441000fba0e4166bc0367232",
+    "corpus/papers.json": "2695ae96b67654f9769d355e5a34d27734cc4643241ab40df8f526838468309c",
+    "corpus/query_plan.json": "6ea470387024b6b2f0d23f92c9b6c14c156508bbb93a9c28d5f1b95c21ccdd67",
+    "env.json": "b735a29ae1e11035d7891958ac3e5fc2430c742b6eb02286f28fb0005ed81496",
+    "inputs.json": "b1c79978b818c501a5ee87eab4c3894456bcb01b1c1ed6c9f0cd107683c58592",
+    "notebook.sqlite": "a36760320b193a58594ab482d3184f30c84fda3f0d3906de13a1c19b30dad4b1",
+    "recordings/llm.jsonl": "806458c511dd2e3e805a7dcc4e735177df783ac6b3b57837de80d0bf4d500704",
+    "runs.jsonl": "3a15b15841d471c35c2683445ea61b999b4daa11e227b262288c01b2ce02e745",
+    "state.json": "dd01ea8ca7934b2966c178fed59f867a2b6efdd281834bf14c7f537ad24bf239"
+  }
+}
